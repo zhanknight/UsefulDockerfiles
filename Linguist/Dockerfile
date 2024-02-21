@@ -9,4 +9,4 @@ RUN apk --update add --virtual build_deps \
     && apk del build_deps \
 	&& rm /var/cache/apk/*
 
-CMD ["github-linguist"]
+CMD ["github-linguist", "--breakdown"]
