@@ -6,3 +6,4 @@ Dockerfiles are organized into folders, each containing the Dockerfile itself as
 
 1. **[Linguist](/Linguist/)**: Used for running GitHub's Linguist to analyze language content of a git repo.  
 1. **[YTDLP](/YTDLP/)**: Used for pulling media outside the context of a web browser.  
+1. **[SQL Server](/SQL%20Server/)**: Used for spinning up a tidy self-contained SQL Server instance.  
